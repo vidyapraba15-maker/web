@@ -1,0 +1,24 @@
+body{
+    font-family: Arial,sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    margin-top:50px;
+}
+h1{
+    color:#2c3e50;
+}
+.countries a{
+    text-decoration: none;
+    font-size: 18px;
+    color: blue;
+    margin: 5px;
+}
+.countries a:hover{
+    color: red;
+}
+.image-link img:hover {
+    border-color:red;
+}
+p{
+    font-size: 16px;
+}
